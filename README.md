@@ -9,3 +9,4 @@
 
 
 
+<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/OC5Wo0drhtbwc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/teddy-mr-bean-comedia-OC5Wo0drhtbwc">via GIPHY</a></p>
