@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👹 About Me:
 <br>¡Hey 🤘! Soy Arian 👽️<br>🔰 Junior Full Stack  Developer 📚️ 💥<br>☕️ Coffe Lover ❤️<br><br>🇯🇵 Me encanta la cultura y la comida Japonesa 🐼<br>🎧️Mi canción preferida: Taeko Ohnuki - 4:00 AM 🎶
 
 
